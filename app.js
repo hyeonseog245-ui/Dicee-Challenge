@@ -18,3 +18,4 @@ if (random1 > random2) {
 } else {
   h1.textContent = "draw!";
 }
+// 주석달기
